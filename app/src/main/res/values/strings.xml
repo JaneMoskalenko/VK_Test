@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">VK_Test</string>
+    <string name="show_messages">Показать сообщения</string>
     <integer name="com_vk_sdk_AppId">6224299</integer>
 </resources>
